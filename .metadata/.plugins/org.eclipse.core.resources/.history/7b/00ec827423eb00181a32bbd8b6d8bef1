@@ -1,0 +1,27 @@
+package com.programcreek.helloworld.controller;
+
+public class Receipe {
+	
+	public static void main(String[] args) {
+		int[] proportions = {1,2,3}; 
+		int[] remainingInGrams = {25,18,72};
+		
+		int maxUnitSize = findMaxUnitSize(proportions, remainingInGrams );
+		
+		
+		
+		
+		
+		
+		
+	}
+
+	private static int findMaxUnitSize(int[] proportions, int[] remainingInGrams) {
+		for(int i : proportions) {
+			
+		}
+		
+		return 0;
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.programcreek.helloworld.controller;
+
+public class Receipe {
+	
+	public static void main(String[] args) {
+		int[] input1 = {1,2,3}; 
+		int[] input2 = {1,2,3};
+		
+		
+		
+	}
+
+}

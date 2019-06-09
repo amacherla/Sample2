@@ -1,0 +1,14 @@
+package com.programcreek.helloworld.controller;
+
+public class Receipe {
+	
+	public static void main(String[] args) {
+		for( String s: args) {
+			System.out.println(s);
+		}
+		
+		
+		
+	}
+
+}
